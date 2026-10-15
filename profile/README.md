@@ -96,5 +96,5 @@ Every message lands in exactly one bucket. Ours has a human in it.
 <br>
 
 <p align="center">
-  <sub><b>JUMPHASH</b> · Estonia · <a href="https://jumphash.com/engineering/">Engineering</a> · <a href="https://jumphash.com/rewired/">Read the essay: Rewired</a> · <a href="https://jumphash.com/work/">Work</a></sub>
+  <sub><b>JUMPHASH</b> · USA · <a href="https://jumphash.com/engineering/">Engineering</a> · <a href="https://jumphash.com/rewired/">Read the essay: Rewired</a> · <a href="https://jumphash.com/work/">Work</a></sub>
 </p>
