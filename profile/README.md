@@ -7,11 +7,12 @@
 </a>
 
 <p align="center">
-  <a href="https://jumphash.com"><img alt="jumphash.com" src="https://img.shields.io/badge/WEB-jumphash.com-ff4d00?style=flat-square&labelColor=0e0e10"></a>
-  <a href="mailto:hello@jumphash.com"><img alt="hello@jumphash.com" src="https://img.shields.io/badge/MAIL-hello%40jumphash.com-f2f1ee?style=flat-square&labelColor=0e0e10"></a>
+  <a href="https://jumphash.com"><img alt="Web: jumphash.com" src="https://img.shields.io/badge/WEB-jumphash.com-ff4d00?style=flat-square&labelColor=0e0e10"></a>
+  <a href="mailto:info@jumphash.com"><img alt="Email: info@jumphash.com" src="https://img.shields.io/badge/MAIL-info%40jumphash.com-f2f1ee?style=flat-square&labelColor=0e0e10"></a>
   <a href="https://x.com/jumphash"><img alt="X: @jumphash" src="https://img.shields.io/badge/-@jumphash-0e0e10?style=flat-square&logo=x&logoColor=f2f1ee"></a>
   <a href="https://youtube.com/@jumphash"><img alt="YouTube: @jumphash" src="https://img.shields.io/badge/-@jumphash-0e0e10?style=flat-square&logo=youtube&logoColor=ff4d00"></a>
-  <a href="https://t.me/jumphash"><img alt="Telegram: jumphash" src="https://img.shields.io/badge/-jumphash-0e0e10?style=flat-square&logo=telegram&logoColor=f2f1ee"></a>
+  <a href="https://t.me/jump_hash"><img alt="Telegram: jump_hash" src="https://img.shields.io/badge/-jump__hash-0e0e10?style=flat-square&logo=telegram&logoColor=f2f1ee"></a>
+  <a href="https://wa.me/jump_hash"><img alt="WhatsApp: jump_hash" src="https://img.shields.io/badge/-jump__hash-0e0e10?style=flat-square&logo=whatsapp&logoColor=f2f1ee"></a>
   <a href="https://instagram.com/jumphash"><img alt="Instagram: jumphash" src="https://img.shields.io/badge/-jumphash-0e0e10?style=flat-square&logo=instagram&logoColor=f2f1ee"></a>
 </p>
 
@@ -80,7 +81,17 @@ Open to joint ventures, pilots and integration: [the ways to partner ↗](https:
 
 ## `04` Contact
 
-Every message lands in exactly one bucket. Ours has a human in it. Write to **[hello@jumphash.com](mailto:hello@jumphash.com)** or use the form at [jumphash.com](https://jumphash.com/#s04).
+Every message lands in exactly one bucket. Ours has a human in it.
+
+| Channel | Handle |
+|:--|:--|
+| Email | **[info@jumphash.com](mailto:info@jumphash.com)** |
+| WhatsApp | [jump_hash](https://wa.me/jump_hash) |
+| Telegram | [@jump_hash](https://t.me/jump_hash) |
+| X | [@jumphash](https://x.com/jumphash) |
+| YouTube | [@jumphash](https://youtube.com/@jumphash) |
+| Instagram | [@jumphash](https://instagram.com/jumphash) |
+| Web | [jumphash.com](https://jumphash.com/#s04), with a contact form |
 
 <br>
 
